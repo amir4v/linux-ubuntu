@@ -1,0 +1,6 @@
+first:
+  apt install python3.8-dev
+  apt install python(specify the version, like: 3.8 /empty/2/3)-dev
+
+then:
+  pip(empty/2/3) install psycopg2
