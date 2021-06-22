@@ -1,0 +1,1 @@
+eval "python3 1.py &" && eval "python3 2.py &" && eval "python3 3.py &"
