@@ -1,0 +1,4 @@
+must install this pack to Virtualbox extension
+Oracle_VM_VirtualBox_Extension_Pack-6.1.22.vbox-extpack
+
+and from Device -> Insert Guest Addition CD image... -> install VBoxWindowsAdditions -> install 64 or 86
