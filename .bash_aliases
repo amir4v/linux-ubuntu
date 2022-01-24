@@ -31,6 +31,7 @@ alias pip='ac && pip'
 alias pipinstall='ac && pip install'
 alias pin='ac && pip install'
 
-alias -='cd -'
+alias p='cd -' ## pd
+alias pd='cd -' ## pd
 alias ..='cd ..'
-alias ...='cd../../'
+alias ...='cd ../../'
