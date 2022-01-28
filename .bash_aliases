@@ -34,6 +34,7 @@ alias dc='deactivate'
 
 alias pip='ac && pip'
 alias pipinstall='ac && pip install'
+alias pi='ac && pip install'
 alias pin='ac && pip install'
 alias pins='ac && pip install'
 
